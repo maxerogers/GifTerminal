@@ -6,6 +6,6 @@
 
 <p>Built using Ruby, Curses and Imagemagick. Thanks to John Daniels for getting Curses to work. — at hackNY. </p> 
 
-<p>To run $ ruby final.rb </p>
+<p>To run install the rmagick gem and then the terminal command $ ruby final.rb </p>
 
 <a href="https://www.facebook.com/video.php?v=10152603215371207&set=vb.725991206&type=3&theater">Video Link</a>
